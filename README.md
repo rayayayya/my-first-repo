@@ -3,3 +3,4 @@
 Nama: Rayna Balqis
 NPM: 2406400373
 Kelas: PBP D
+Jurusan: Sistem Informasi
